@@ -1,0 +1,47 @@
+
+
+PITCH
+
+Not only in libraries, but in society, we are a crossroads about privacy rights. I want to talk about our current responsibilities, and some ways to think about the paths ahead.
+
+MORE ASSERTIVE - WE ARE PROPRIVACY RIGHT!
+
+- needs better transition
+
+- sound effect to phone slide****
+
+***why is this data is collected***
+
+**give up fourth amendment rights to sell you ads***
+***increasingly to manipulate your behavior***
+WHERE DOES THIS GO: Google does not just sell ads, Google pre-sales a guarantee you will click the ad. How long they try to manipulate that behavior to fulfill that guarantee?
+
+
+
+- more what to do about it slides including Tor and Duckduckgo
+
+- exercises
+  - spectrum exercise
+  - risk versus reward****
+
+- Geofencing -- WHERE TO ADD
+https://en.wikipedia.org/wiki/Geo-fence
+https://geomarketing.com/geomarketing-101-what-is-geofencing
+
+- policies expanded
+    - wha you collect, who you share it with, who else might get it
+    - always opt-in
+    - how to opt-out
+
+- quote about strength in numbers / herd
+
+- bounty hunter
+
+- Duckduckgo
+- Tor
+- Wipe'em
+- GA
+- matomo
+- policies
+- vendor contracts
+- Data and the laws

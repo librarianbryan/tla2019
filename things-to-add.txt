@@ -8,8 +8,6 @@ MORE ASSERTIVE - WE ARE PROPRIVACY RIGHT!
 
 - needs better transition
 
-- sound effect to phone slide****
-
 ***why is this data is collected***
 
 **give up fourth amendment rights to sell you ads***
@@ -17,30 +15,21 @@ MORE ASSERTIVE - WE ARE PROPRIVACY RIGHT!
 WHERE DOES THIS GO: Google does not just sell ads, Google pre-sales a guarantee you will click the ad. How long they try to manipulate that behavior to fulfill that guarantee?
 
 
-
 - more what to do about it slides including Tor and Duckduckgo
 
-- exercises
-  - spectrum exercise
-  - risk versus reward****
+Slide 32
+what you collect & why
+how to protect it
+who you share it with
+make opting-in the default
+make it easy to opt-out
+no dark patterns
 
 - Geofencing -- WHERE TO ADD
 https://en.wikipedia.org/wiki/Geo-fence
 https://geomarketing.com/geomarketing-101-what-is-geofencing
 
-- policies expanded
-    - wha you collect, who you share it with, who else might get it
-    - always opt-in
-    - how to opt-out
-
-- quote about strength in numbers / herd
-
-- bounty hunter
-
-- Duckduckgo
-- Tor
-- Wipe'em
-- GA
+- GA list specifics...
 - matomo
 - policies
 - vendor contracts

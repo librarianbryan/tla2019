@@ -1,3 +1,0 @@
-<span style=color:#00ff00;text-transform:lowercase>
-
-<h4><span style=font-size:60px>

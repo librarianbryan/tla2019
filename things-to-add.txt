@@ -12,25 +12,13 @@ MORE ASSERTIVE - WE ARE PROPRIVACY RIGHT!
 
 **give up fourth amendment rights to sell you ads***
 ***increasingly to manipulate your behavior***
+
 WHERE DOES THIS GO: Google does not just sell ads, Google pre-sales a guarantee you will click the ad. How long they try to manipulate that behavior to fulfill that guarantee?
+If there was bias in the search results, how would you know?
 
 
-- more what to do about it slides including Tor and Duckduckgo
-
-Slide 32
-what you collect & why
-how to protect it
-who you share it with
-make opting-in the default
-make it easy to opt-out
-no dark patterns
 
 - Geofencing -- WHERE TO ADD
 https://en.wikipedia.org/wiki/Geo-fence
 https://geomarketing.com/geomarketing-101-what-is-geofencing
 
-- GA list specifics...
-- matomo
-- policies
-- vendor contracts
-- Data and the laws
